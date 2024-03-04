@@ -15,7 +15,7 @@
 
 /* @(#) $Id$ */
 
-#include "zlib.h"
+#include "algos/zlib/zlib.h"
 #include <stdio.h>
 
 #ifdef STDC
